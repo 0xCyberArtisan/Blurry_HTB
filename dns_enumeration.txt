@@ -1,0 +1,6 @@
+[32mFound: [0m[32mchat.blurry.htb
+[0m
+[32mFound: [0m[32mfiles.blurry.htb
+[0m
+[32mFound: [0m[32mapp.blurry.htb
+[0m
