@@ -1,0 +1,30 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+ENV.bak/
+venv.bak/
+
+# Conda virtual environments
+.conda/
+conda-meta/
+envs/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Virtualenvwrapper
+WORKON_HOME/
+
+# Pyenv
+.python-version
+
+# Hatch
+.hatch/
+
+# End of .gitignore for virtual environments
